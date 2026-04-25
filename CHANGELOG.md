@@ -30,3 +30,12 @@
 - Desarrollo de lógica para cálculo de promedios de excesos (real y con margen).
 - Implementación de método para contabilización de multas por ubicación.
 - Invocación de métodos en celdas independientes para claridad de reporte.
+
+## [Sprint 1] - Punto 07
+- Redacción de conclusiones finales basadas en la calidad de los datos.
+
+## [Sprint 1] - Punto 07
+- Redacción de conclusiones finales basadas en la calidad de los datos.
+
+## [Sprint 1] - Punto 07
+- Redacción de conclusiones finales basadas en la calidad de los datos.
