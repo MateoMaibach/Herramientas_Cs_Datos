@@ -16,3 +16,17 @@
 - Cálculo de columnas 'exceso_velocidad_real' y 'exceso_velocidad'.
 - Filtrado de registros sin infracción.
 - Exportación de dataset limpio a urban_flow/data/interim/speeding_fines.csv.
+
+## [Sprint 1] - Ejercicio 04
+- Implementación de la clase 'FineAnalyzer' con encapsulamiento de datos.
+- Creación de métodos con Type Hints para rankings de patentes y horarios.
+- Desarrollo de lógica para cálculo de promedios de excesos (real y con margen).
+- Implementación de método para contabilización de multas por ubicación.
+- Invocación de métodos en celdas independientes para claridad de reporte.
+
+## [Sprint 1] - Ejercicio 04
+- Implementación de la clase 'FineAnalyzer' con encapsulamiento de datos.
+- Creación de métodos con Type Hints para rankings de patentes y horarios.
+- Desarrollo de lógica para cálculo de promedios de excesos (real y con margen).
+- Implementación de método para contabilización de multas por ubicación.
+- Invocación de métodos en celdas independientes para claridad de reporte.
